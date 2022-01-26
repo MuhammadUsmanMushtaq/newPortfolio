@@ -1,4 +1,4 @@
-import Intro from "./components/intro/intro";
+import Intro from "./components/intro/Intro";
 
 const App = () => {
   return <div><Intro /></div>;
